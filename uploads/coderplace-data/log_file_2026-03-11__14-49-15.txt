@@ -1,0 +1,11 @@
+
+---Downloaded files---
+The import files for: goixio were successfully downloaded!
+Initial max execution time = 300
+Files info:
+Site URL = http://wp1.eraycloud.com
+Data file = /home/ceshi/wwwroot/wp1.eraycloud.com/wp-content/themes/goixio/custom/one-click/goixio-export.xml
+Widget file = /home/ceshi/wwwroot/wp1.eraycloud.com/wp-content/themes/goixio/custom/one-click/goixio_widgets_settings.wie
+Customizer file = /home/ceshi/wwwroot/wp1.eraycloud.com/wp-content/themes/goixio/custom/one-click/goixio_customizer_export.dat
+Redux files:
+not defined!

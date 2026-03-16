@@ -1,0 +1,61 @@
+/**
+ * Custom vars
+ */
+ .elementor-widget-woocommerce-checkout-page .woocommerce-checkout {
+	.col2-set {
+		float: none;
+		width: 100%;
+		padding: 0;
+	}
+	#order_review_heading {
+		float: none;
+		width: auto;
+		padding: 0;
+		margin-bottom: var(--sections-title-spacing,30px);
+	}
+	.woocommerce-checkout-review-order {
+		float: none;
+		width: auto;
+		padding: 0;
+	}
+ }
+ 
+// Fixed Elementor Pro Checkout Page.
+ @media (min-width: 1025px) {
+    form.woocommerce-checkout .e-checkout__container .checkout-order-review,
+    form.woocommerce-checkout .e-checkout__container .col2-set,
+    form.woocommerce-checkout .e-checkout__container .woocommerce-checkout-review-order {
+        position: static;
+        top: 20px;
+        width:100%;
+        float:none;
+    }
+}
+
+.woocommerce-checkout form.checkout .e-checkout__container .woocommerce-account-fields div.create-account,
+.woocommerce-checkout form.checkout .e-checkout__container .woocommerce-billing-fields__field-wrapper {
+
+    padding: 0px;
+    margin-bottom: 0px;
+    border: none;
+    border-radius: 0px;
+}
+
+.woocommerce-checkout form.checkout .e-checkout__container .woocommerce-shipping-fields .shipping_address {}
+
+
+form.woocommerce-checkout .e-checkout__order_review .checkout-order-review .woocommerce-checkout-review-order {
+    padding: 0px;
+    border: none;
+    background: transparent;
+    border-radius: 0px;
+    margin-bottom: 30px;
+}
+
+.elementor-widget-woocommerce-checkout-page .woocommerce .woocommerce-checkout #payment {
+    border: none!important;
+    padding: 0!important;
+}
+
+.elementor-widget-woocommerce-checkout-page .woocommerce .woocommerce-checkout-review-order-table .cart_item td.product-name,
+.elementor-widget-woocommerce-checkout-page .woocommerce-shipping-totals td {     max-width: 100%!important; }

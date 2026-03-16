@@ -1,0 +1,49 @@
+{
+  "name": "wprig/wprig",
+  "description": "A progressive theme development rig for WordPress.",
+  "type": "wordpress-theme",
+  "license": "GPL-3.0-or-later",
+  "require-dev": {
+    "php": ">=7.0",
+    "wp-coding-standards/wpcs": "^2",
+    "wp-cli/wp-cli-bundle": "^2.7",
+    "dealerdirect/phpcodesniffer-composer-installer": "^0.7.1",
+    "squizlabs/php_codesniffer": "3.*",
+    "phpunit/phpunit": "^6",
+    "brain/monkey": "^2",
+    "phpcompatibility/php-compatibility": "^9",
+    "yoast/phpunit-polyfills": "^1.0"
+  },
+  "config": {
+    "platform": {
+      "php": "7.0"
+    },
+    "allow-plugins": {
+      "dealerdirect/phpcodesniffer-composer-installer": true
+    }
+  },
+  "autoload": {
+    "psr-4": {
+      "WP_Rig\\WP_Rig\\": "inc"
+    }
+  },
+  "scripts": {
+    "install-codestandards": [
+      "Dealerdirect\\Composer\\Plugin\\Installers\\PHPCodeSniffer\\Plugin::run"
+    ],
+    "makepot-dev": "\"vendor/wp-cli/wp-cli/bin/wp\"",
+    "run-makepot": [
+      "@makepot-dev i18n make-pot . languages/coderplace-core.pot --exclude=/**/src/**/*.js"
+    ],
+    "phpcbf-dev": "\"vendor/bin/phpcbf\"",
+    "run-phpcbf": [
+      "@phpcbf-dev"
+    ],
+    "phpcs-dev": "\"vendor/bin/phpcs\"",
+    "run-phpcs": [
+      "@phpcs-dev"
+    ],
+    "phpunit-dev": "\"vendor/bin/phpunit\"",
+    "phpunit-integration-dev": "\"vendor/bin/phpunit\" -c \"phpunit.integration.xml.dist\""
+  }
+}

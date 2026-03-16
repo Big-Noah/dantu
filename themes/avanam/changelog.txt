@@ -1,0 +1,164 @@
+== 1.5.9 | 17th June 2025 ==
+* Fix: Product title overlapping at cart page
+
+== 1.5.8 | 15th June 2025 ==
+* Update: Cart and checkout pages for Elementor pro
+
+== 1.5.7 | 30th May 2025 ==
+* Improve: Update checker performance
+
+== 1.5.6 | 24th April 2025 ==
+* Fix: JS error for navigation.
+* Fix: Early translation notice.
+
+== 1.5.5 | 7th April 2025 ==
+* Fix: Variant error at default options.
+* Fix: WooCommerce product tabs css.
+* Fix: Password input css.
+
+== 1.5.4 | 24th March 2025 ==
+* Add: Apply filter to shop loop product title.
+* Fix: 00 cart total when currency symbol right.
+
+== 1.5.3 | 9th February 2025 ==
+* Improve: Adjust font weight for special price.
+
+== 1.5.2 | 7th February 2025 ==
+* Fix: Mini cart does not close when empty.
+
+== 1.5.1 | 4th February 2025 ==
+* Improve: Checkout button css.
+
+== 1.5.0 | 27th January 2025 ==
+* Add: Global variables.
+* Update: Woocommerce loader.
+* Update: Mini cart.
+* Update: Search drawer.
+* Fix: Block widget title css.
+
+== 1.4.8 | 28th December 2024 ==
+* Fix: Icon css.
+
+== 1.4.7 | 27th December 2024 ==
+* Fix: Miscellaneous css on product page.
+
+== 1.4.6 | 23rd December 2024 ==
+* Add: Subtotal to Header cart.
+* Add: Placeholders to Header cart.
+* Update: Header cart icon css.
+* Fix: Miscellaneous css.
+
+== 1.4.5 | 18th September 2024 ==
+* Update: Twitter icon to x
+* Update: Disable async and defer function.
+* Fix: Undefined key 'cookies' on blog page.
+
+== 1.4.4 | 15th August 2024 ==
+* Update: Pass tests with theme check plugin.
+
+== 1.4.3 | 31th July 2024 ==
+* Update: Twitter color.
+* Update: Splide js to version 4.1.2
+* Fix: Can't edit color hex code in color picker.
+
+== 1.4.2 | 4th July 2024 ==
+* Update: Updates some default values.
+
+== 1.4.1 | 1st May 2024 ==
+* Fix: Active Product css in Menu.
+
+== 1.4.0 | 29th April 2024 ==
+* Add: theme.json file to better support core blocks.
+* Add: Threads to social media options.
+* Add: Option to enable theme.json mode.
+* Update: Default icons for social, X and Instagram.
+* Update: Google Font choices.
+* Fix: Miscellaneous css.
+* Fix: Background image not selected.
+* Fix: CSS determining content width.
+
+== 1.3.9 | 16th March 2024 ==
+* Fix: Miscellaneous css.
+
+== 1.3.8 | 11th March 2024 ==
+* Fix: Cart drawer css.
+
+== 1.3.7 | 6th February 2024 ==
+* Update: Grouped products thumbnails.
+
+== 1.3.6 | 3rd December 2023 ==
+* Update: Footer css.
+
+== 1.3.5 | 11th November 2023 ==
+* Add: Upsell options.
+* Fix: Comment css.
+
+== 1.3.4 | 27th October 2023 ==
+* Fix: Cart button on product details page.
+* Fix: Comment form.
+
+== 1.3.3 | 26th October 2023 ==
+* Update: CSS updates.
+
+== 1.3.2 | 25th October 2023 ==
+* Update: CSS updates.
+
+== 1.3.1 | 9th October 2023 ==
+* Added: Header Cart Options.
+* Update: CSS updates.
+
+== 1.3.0 | 21st August 2023 ==
+* Update: Default options.
+* Update: General design updates.
+
+== 1.2.1 | 8th July 2023 ==
+* Update: General design updates.
+
+== 1.2.0 | 17th June 2023 ==
+* Update: Class prefix for better separation.
+
+== 1.1.8 | 12th June 2023 ==
+* Fix: Inline images align issue in table block.
+* Fix: Issue with filter by rating.
+
+== 1.1.7 | 12th June 2023 ==
+* Fix: Color picker input typing.
+* New: WooCommerce Product Wrap.
+
+== 1.1.6 | 20th May 2023 ==
+* Fix: Color picker in border controls.
+* Fix: Palette Color picker offscreen.
+* Fix: Footer widgets spacing.
+* Fix: Issue with product buttons style.
+
+== 1.1.5 | 12th April 2023 ==
+* Update: Editor style tweak.
+* Fix: 6.2 css issue with editor title.
+
+== 1.1.4 | 27th March 2023 ==
+* Fix: Welcome notice JS registered.
+
+== 1.1.3 | 27th March 2023 ==
+* Update: JS to prevent conflicts.
+* Update: Editor styling of form.
+* Fix: Various CSS and other issues.
+
+== 1.1.2 | 22nd February 2023 ==
+* Fix: Possible updater bug in php 8.0
+
+== 1.1.1 | 22nd February 2023 ==
+* Update: Buttons CSS styling.
+* Update: Image options in the customizer.
+* Fix: Palette popover in customizer.
+* Fix: Heading spacing in editor.
+
+== 1.1.0 | 15th November 2022 ==
+* Add: Theme Updater.
+* Fix: Changelog Display in Dashboard.
+
+== 1.0.0 | 27th October 2022 ==
+* Initial Version.
+
+== 1.0.0 | 27th October 2022 ==
+* Initial Version.
+

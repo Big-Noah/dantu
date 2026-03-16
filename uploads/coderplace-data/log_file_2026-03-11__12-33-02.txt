@@ -1,0 +1,11 @@
+
+---下载的文件---
+导入文件：goixio已成功下载！
+初始最大执行时间= 300
+文件信息：
+网站网址 = http://wp1.eraycloud.com
+数据文件 = /home/ceshi/wwwroot/wp1.eraycloud.com/wp-content/themes/goixio/custom/one-click/goixio-export.xml
+小工具文件 = /home/ceshi/wwwroot/wp1.eraycloud.com/wp-content/themes/goixio/custom/one-click/goixio_widgets_settings.wie
+自定义文件 = /home/ceshi/wwwroot/wp1.eraycloud.com/wp-content/themes/goixio/custom/one-click/goixio_customizer_export.dat
+Redux文件：
+未定义!

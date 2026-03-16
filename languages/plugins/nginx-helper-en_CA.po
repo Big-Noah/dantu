@@ -1,0 +1,677 @@
+# Translation of Plugins - Nginx Helper - Stable (latest release) in English (Canada)
+# This file is distributed under the same license as the Plugins - Nginx Helper - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2025-08-21 04:10:27+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: en_CA\n"
+"Project-Id-Version: Plugins - Nginx Helper - Stable (latest release)\n"
+
+#: admin/partials/nginx-helper-sidebar-display.php:75
+msgid "Enterprise WordPress Consultancy"
+msgstr "Enterprise WordPress Consultancy"
+
+#: admin/partials/nginx-helper-sidebar-display.php:72
+msgid "rtCamp GitHub"
+msgstr "rtCamp GitHub"
+
+#: admin/partials/nginx-helper-sidebar-display.php:66
+msgid "Nginx Tutorials"
+msgstr "Nginx Tutorials"
+
+#. translators: %1$s: status to change to (enable or disable), %2$s: bool value
+#. to set the NGINX_HELPER_LOG as (true or false)
+#: admin/partials/nginx-helper-general-options.php:753
+msgid "<strong>NOTE:</strong> To %1$s the logging feature, you must define the <strong>NGINX_HELPER_LOG</strong> constant as <strong>%2$s</strong> in your <strong>wp-config.php</strong> file"
+msgstr "<strong>NOTE:</strong> To %1$s the logging feature, you must define the <strong>NGINX_HELPER_LOG</strong> constant as <strong>%2$s</strong> in your <strong>wp-config.php</strong> file"
+
+#. translators: %s: date/time the feed item as been posted
+#: admin/class-nginx-helper-admin.php:485
+msgid "Posted %s"
+msgstr "Posted %s"
+
+#: admin/partials/nginx-helper-general-options.php:667
+msgid "purge <strong>amp urls</strong> along with <strong>posts</strong> & <strong>pages</strong>."
+msgstr "purge <strong>amp URLs</strong> along with <strong>posts</strong> & <strong>pages</strong>."
+
+#: admin/partials/nginx-helper-general-options.php:658
+msgid "purge amp urls"
+msgstr "purge amp URLs"
+
+#: admin/partials/nginx-helper-general-options.php:649
+msgid "Purge AMP URL:"
+msgstr "Purge AMP URL:"
+
+#: admin/partials/nginx-helper-general-options.php:369
+msgid "Password"
+msgstr "Password"
+
+#: admin/partials/nginx-helper-general-options.php:353
+msgid "Username"
+msgstr "Username"
+
+#: admin/partials/nginx-helper-general-options.php:337
+msgid "Database"
+msgstr "Database"
+
+#: admin/partials/nginx-helper-general-options.php:307
+msgid "Socket Path"
+msgstr "Socket Path"
+
+#: admin/partials/nginx-helper-general-options.php:276
+#: admin/partials/nginx-helper-general-options.php:299
+msgid "Overridden by unix socket path."
+msgstr "Overridden by unix socket path."
+
+#: admin/partials/nginx-helper-general-options.php:140
+msgid "Preload Cache"
+msgstr "Preload Cache"
+
+#: admin/class-nginx-helper-admin.php:913
+msgid "Failed to parse the sitemap XML"
+msgstr "Failed to parse the sitemap XML"
+
+#: admin/partials/nginx-helper-general-options.php:743
+msgid "enable"
+msgstr "enable"
+
+#: admin/partials/nginx-helper-general-options.php:737
+msgid "disable"
+msgstr "disable"
+
+#: admin/partials/nginx-helper-general-options.php:635
+msgid "purge <strong>feeds</strong> along with <strong>posts</strong> & <strong>pages</strong>."
+msgstr "purge <strong>feeds</strong> along with <strong>posts</strong> & <strong>pages</strong>."
+
+#: admin/partials/nginx-helper-general-options.php:626
+msgid "purge feeds"
+msgstr "purge feeds"
+
+#: admin/partials/nginx-helper-general-options.php:617
+msgid "Purge Feeds:"
+msgstr "Purge Feeds:"
+
+#: admin/partials/nginx-helper-general-options.php:560
+msgid "when a <strong>published post</strong> (or page/custom post) is <strong>trashed</strong>."
+msgstr "when a <strong>published post</strong> (or page/custom post) is <strong>trashed</strong>."
+
+#. translators: %s file url.
+#: admin/partials/nginx-helper-general-options.php:796
+#: admin/partials/nginx-helper-general-options.php:868
+msgid "Check you have write permission on <strong>%s</strong>"
+msgstr "Check you have write permission on <strong>%s</strong>"
+
+#: admin/partials/nginx-helper-general-options.php:693
+msgid "'*' will only work with redis cache server."
+msgstr "'*' will only work with redis cache server."
+
+#: admin/partials/nginx-helper-general-options.php:689
+msgid "Eg: To purge http://example.com/sample-page/ add <strong>/sample-page/</strong> in above textarea."
+msgstr "E.g: To purge http://example.com/sample-page/ add <strong>/sample-page/</strong> in above textarea."
+
+#: admin/partials/nginx-helper-general-options.php:686
+msgid "Add one URL per line. URL should not contain domain name."
+msgstr "Add one URL per line. URL should not contain domain name."
+
+#. translators: %s Nginx cache purge module link.
+#: admin/partials/nginx-helper-general-options.php:217
+msgid "Uses the %s module."
+msgstr "Uses the %s module."
+
+#: admin/class-nginx-helper-admin.php:166
+msgid "Purging entire cache is not recommended. Would you like to continue?"
+msgstr "Purging entire cache is not recommended. Would you like to continue?"
+
+#: admin/class-nginx-helper-admin.php:221
+msgid "Purge Current Page"
+msgstr "Purge Current Page"
+
+#. translators: %s is Minimum WP version.
+#: includes/class-nginx-helper.php:315
+msgid "Sorry, Nginx Helper requires WordPress %s or higher"
+msgstr "Sorry, Nginx Helper requires WordPress %s or higher"
+
+#: admin/partials/nginx-helper-sidebar-display.php:40
+msgid "free support forum"
+msgstr "free support forum"
+
+#: admin/partials/nginx-helper-sidebar-display.php:38
+msgid "Please use our"
+msgstr "Please use our"
+
+#: admin/partials/nginx-helper-general-options.php:863
+msgid "Can't write on log file."
+msgstr "Can't write on log file."
+
+#: admin/partials/nginx-helper-general-options.php:829
+msgid "(if your network is small and new sites are not added frequently)"
+msgstr "(if your network is small and new sites are not added frequently)"
+
+#: admin/partials/nginx-helper-general-options.php:828
+msgid "Text to manually copy and paste in nginx settings"
+msgstr "Text to manually copy and paste in nginx settings"
+
+#: admin/partials/nginx-helper-general-options.php:827
+msgid "Or,"
+msgstr "Or,"
+
+#: admin/partials/nginx-helper-general-options.php:814
+msgid "(recommended)"
+msgstr "(recommended)"
+
+#: admin/partials/nginx-helper-general-options.php:813
+msgid "Nginx Map path to include in nginx settings"
+msgstr "Nginx Map path to include in nginx settings"
+
+#: admin/partials/nginx-helper-general-options.php:791
+msgid "Can't write on map file."
+msgstr "Can't write on map file."
+
+#: admin/partials/nginx-helper-general-options.php:551
+msgid "when an existing post/page/custom post is trashed."
+msgstr "when an existing post/page/custom post is trashed."
+
+#: admin/partials/nginx-helper-general-options.php:530
+msgid "when an post/page/custom post is modified or added"
+msgstr "when an post/page/custom post is modified or added"
+
+#: admin/partials/nginx-helper-general-options.php:268
+#: admin/partials/nginx-helper-general-options.php:290
+#: admin/partials/nginx-helper-general-options.php:314
+#: admin/partials/nginx-helper-general-options.php:329
+#: admin/partials/nginx-helper-general-options.php:344
+#: admin/partials/nginx-helper-general-options.php:360
+#: admin/partials/nginx-helper-general-options.php:378
+msgid "Overridden by constant variables."
+msgstr "Overridden by constant variables."
+
+#: admin/partials/nginx-helper-general-options.php:206
+msgid "(Default option)"
+msgstr "(Default option)"
+
+#: admin/partials/nginx-helper-general-options.php:205
+msgid "Using a GET request to"
+msgstr "Using a GET request to"
+
+#: admin/partials/nginx-helper-general-options.php:165
+msgid "requires external settings for nginx"
+msgstr "requires external settings for nginx"
+
+#: admin/partials/nginx-helper-general-options.php:164
+msgid "External settings for nginx"
+msgstr "External settings for nginx"
+
+#: admin/partials/nginx-helper-general-options.php:162
+msgid "nginx Fastcgi cache"
+msgstr "nginx Fastcgi cache"
+
+#: admin/partials/nginx-helper-general-options.php:90
+msgid "Log file size must be a number."
+msgstr "Log file size must be a number."
+
+#: admin/class-purger.php:1169
+msgid "A term taxonomy has been deleted from taxonomy '%1$s', (tt_id '%2$d', term_id '%3$d')"
+msgstr "A term taxonomy has been deleted from taxonomy '%1$s', (tt_id '%2$d', term_id '%3$d')"
+
+#: admin/class-purger.php:1165
+msgid "Term taxonomy '%1$s' edited, (tt_id '%2$d', term_id '%3$d', taxonomy '%4$s')"
+msgstr "Term taxonomy '%1$s' edited, (tt_id '%2$d', term_id '%3$d', taxonomy '%4$s')"
+
+#: admin/class-purger.php:1135
+msgid "Everything purged!"
+msgstr "Everything purged!"
+
+#: admin/class-purger.php:1068
+msgid "Purging monthly archive '%1$s/%2$s'"
+msgstr "Purging monthly archive '%1$s/%2$s'"
+
+#: admin/class-purger.php:1017
+msgid "Purging daily archive '%1$s/%2$s/%3$s'"
+msgstr "Purging daily archive '%1$s/%2$s/%3$s'"
+
+#: admin/class-purger.php:958
+msgid "Purging post id '%1$d' ( post type '%2$s' )"
+msgstr "Purging post id '%1$d' ( post type '%2$s' )"
+
+#: admin/class-purger.php:835
+msgid "Purging category '%1$s' ( id %2$d )"
+msgstr "Purging category '%1$s' ( id %2$d )"
+
+#: admin/class-purger.php:763 admin/class-purger.php:863
+msgid "Purging tag '%1$s' ( id %2$d )"
+msgstr "Purging tag '%1$s' ( id %2$d )"
+
+#. translators: %s homepage URL
+#: admin/class-purger.php:694
+msgid "Purging homepage (WPML) %s"
+msgstr "Purging homepage (WPML) %s"
+
+#. Author URI of the plugin
+#: nginx-helper.php
+msgid "https://rtcamp.com"
+msgstr "https://rtcamp.com"
+
+#. Author of the plugin
+#: nginx-helper.php
+msgid "rtCamp"
+msgstr "rtCamp"
+
+#. Description of the plugin
+#: nginx-helper.php
+msgid "Cleans nginx's fastcgi/proxy cache or redis-cache whenever a post is edited/published. Also does few more things."
+msgstr "Cleans nginx's fastcgi/proxy cache or redis-cache whenever a post is edited/published. Also does few more things."
+
+#. Plugin URI of the plugin
+#: nginx-helper.php
+msgid "https://rtcamp.com/nginx-helper/"
+msgstr "https://rtcamp.com/nginx-helper/"
+
+#: class-nginx-helper-wp-cli-command.php:40
+msgid "Purged Everything!"
+msgstr "Purged Everything!"
+
+#: admin/class-purger.php:1197
+msgid "Widget saved, moved or removed in a sidebar"
+msgstr "Widget saved, moved or removed in a sidebar"
+
+#: admin/class-purger.php:1158
+msgid "Term taxonomy edited or deleted"
+msgstr "Term taxonomy edited or deleted"
+
+#: admin/class-purger.php:1130
+msgid "Let's purge everything!"
+msgstr "Let's purge everything!"
+
+#: admin/class-purger.php:1118
+msgid "No yearly archives"
+msgstr "No yearly archives"
+
+#. translators: %s: Year to purge cache.
+#: admin/class-purger.php:1113
+msgid "Purging yearly archive '%s'"
+msgstr "Purging yearly archive '%s'"
+
+#: admin/class-purger.php:1085
+msgid "Purging all yearly archives."
+msgstr "Purging all yearly archives."
+
+#: admin/class-purger.php:1073
+msgid "No monthly archives"
+msgstr "No monthly archives"
+
+#: admin/class-purger.php:1040
+msgid "Purging all monthly archives."
+msgstr "Purging all monthly archives."
+
+#: admin/class-purger.php:1028
+msgid "No daily archives"
+msgstr "No daily archives"
+
+#: admin/class-purger.php:994
+msgid "Purging all daily archives."
+msgstr "Purging all daily archives."
+
+#: admin/class-purger.php:977
+msgid "Purging all date-based archives."
+msgstr "Purging all date-based archives."
+
+#: admin/class-purger.php:963
+msgid "No posts"
+msgstr "No posts"
+
+#: admin/class-purger.php:943
+msgid "Purging all posts, pages and custom post types."
+msgstr "Purging all posts, pages and custom post types."
+
+#: admin/class-purger.php:882
+msgid "Purging all custom taxonomies"
+msgstr "Purging all custom taxonomies"
+
+#: admin/class-purger.php:868
+msgid "No tags archives"
+msgstr "No tags archives"
+
+#: admin/class-purger.php:855
+msgid "Purging all tags"
+msgstr "Purging all tags"
+
+#: admin/class-purger.php:841
+msgid "No categories archives"
+msgstr "No categories archives"
+
+#: admin/class-purger.php:827
+msgid "Purging all categories"
+msgstr "Purging all categories"
+
+#: admin/class-purger.php:814 admin/class-purger.php:916
+msgid "No custom taxonomies"
+msgstr "No custom taxonomies"
+
+#. translators: %s: Post taxonomy name.
+#. translators: %s: Taxonomy name.
+#: admin/class-purger.php:810 admin/class-purger.php:912
+msgid "Your built-in taxonomy '%s' has param '_builtin' set to false."
+msgstr "Your built-in taxonomy '%s' has param '_builtin' set to false."
+
+#. translators: %s: Post taxonomy name.
+#. translators: %s: Taxonomy name.
+#: admin/class-purger.php:796 admin/class-purger.php:896
+msgid "Purging custom taxonomy '%s'"
+msgstr "Purging custom taxonomy '%s'"
+
+#: admin/class-purger.php:782
+msgid "Purging post custom taxonomies related"
+msgstr "Purging post custom taxonomies related"
+
+#: admin/class-purger.php:755
+msgid "Purging tags archives"
+msgstr "Purging tags archives"
+
+#. translators: %d: Category ID.
+#: admin/class-purger.php:737
+msgid "Purging category '%d'"
+msgstr "Purging category '%d'"
+
+#: admin/class-purger.php:728
+msgid "Purging category archives"
+msgstr "Purging category archives"
+
+#. translators: %s homepage URL
+#: admin/class-purger.php:705
+msgid "Purging homepage %s"
+msgstr "Purging homepage %s"
+
+#: admin/class-nginx-helper-admin.php:471
+msgid "No items"
+msgstr "No items"
+
+#: admin/class-nginx-helper-admin.php:387
+msgid "Settings"
+msgstr "Settings"
+
+#: admin/class-nginx-helper-admin.php:831
+msgid "Purge initiated"
+msgstr "Purge initiated"
+
+#: admin/partials/nginx-helper-support-options.php:37
+msgid "Premium Support Forum"
+msgstr "Premium Support Forum"
+
+#: admin/partials/nginx-helper-support-options.php:34
+msgid "Premium Support"
+msgstr "Premium Support"
+
+#: admin/partials/nginx-helper-support-options.php:28
+#: admin/partials/nginx-helper-support-options.php:38
+msgid "Link to forum"
+msgstr "Link to forum"
+
+#: admin/partials/nginx-helper-support-options.php:27
+msgid "Free Support Forum"
+msgstr "Free Support Forum"
+
+#: admin/partials/nginx-helper-support-options.php:24
+msgid "Free Support"
+msgstr "Free Support"
+
+#: admin/partials/nginx-helper-support-options.php:18
+msgid "Support Forums"
+msgstr "Support Forums"
+
+#: admin/partials/nginx-helper-sidebar-display.php:84
+msgid "Loading..."
+msgstr "Loading…"
+
+#: admin/partials/nginx-helper-sidebar-display.php:83
+msgid "Latest News"
+msgstr "Latest News"
+
+#: admin/partials/nginx-helper-sidebar-display.php:82
+msgid "Click to toggle"
+msgstr "Click to toggle"
+
+#: admin/partials/nginx-helper-sidebar-display.php:69
+msgid "EasyEngine (ee)"
+msgstr "EasyEngine (ee)"
+
+#: admin/partials/nginx-helper-sidebar-display.php:61
+msgid "Useful Links"
+msgstr "Useful Links"
+
+#: admin/partials/nginx-helper-sidebar-display.php:55
+msgid "Follow us on Twitter"
+msgstr "Follow us on Twitter"
+
+#: admin/partials/nginx-helper-sidebar-display.php:54
+msgid "Become a fan on Facebook"
+msgstr "Become a fan on Facebook"
+
+#: admin/partials/nginx-helper-sidebar-display.php:50
+msgid "Getting Social is Good"
+msgstr "Getting Social is Good"
+
+#: admin/partials/nginx-helper-sidebar-display.php:31
+msgid "Need Help?"
+msgstr "Need Help?"
+
+#: admin/partials/nginx-helper-sidebar-display.php:26
+msgid "Purge Entire Cache"
+msgstr "Purge Entire Cache"
+
+#: admin/partials/nginx-helper-general-options.php:947
+msgid "Save All Changes"
+msgstr "Save All Changes"
+
+#: admin/partials/nginx-helper-general-options.php:930
+msgid "Mb"
+msgstr "MB"
+
+#: admin/partials/nginx-helper-general-options.php:924
+msgid "Max log file size"
+msgstr "Max log file size"
+
+#: admin/partials/nginx-helper-general-options.php:917
+msgid "Error"
+msgstr "Error"
+
+#: admin/partials/nginx-helper-general-options.php:916
+msgid "Warning"
+msgstr "Warning"
+
+#: admin/partials/nginx-helper-general-options.php:915
+msgid "Info"
+msgstr "Info"
+
+#: admin/partials/nginx-helper-general-options.php:914
+msgid "None"
+msgstr "None"
+
+#: admin/partials/nginx-helper-general-options.php:909
+msgid "Log level"
+msgstr "Log level"
+
+#: admin/partials/nginx-helper-general-options.php:902
+msgid "Log"
+msgstr "Log"
+
+#: admin/partials/nginx-helper-general-options.php:897
+msgid "View Log"
+msgstr "View Log"
+
+#: admin/partials/nginx-helper-general-options.php:885
+msgid "Logs path"
+msgstr "Logs path"
+
+#: admin/partials/nginx-helper-general-options.php:847
+msgid "Logging Options"
+msgstr "Logging Options"
+
+#: admin/partials/nginx-helper-general-options.php:782
+msgid "Nginx Map"
+msgstr "Nginx Map"
+
+#: admin/partials/nginx-helper-general-options.php:768
+msgid "Enable Nginx Timestamp in HTML"
+msgstr "Enable Nginx Timestamp in HTML"
+
+#: admin/partials/nginx-helper-general-options.php:732
+msgid "Enable Logging"
+msgstr "Enable Logging"
+
+#: admin/partials/nginx-helper-general-options.php:713
+msgid "Enable Nginx Map."
+msgstr "Enable Nginx Map."
+
+#: admin/partials/nginx-helper-general-options.php:703
+msgid "Debug Options"
+msgstr "Debug Options"
+
+#: admin/partials/nginx-helper-general-options.php:680
+msgid "Custom Purge URL:"
+msgstr "Custom Purge URL:"
+
+#: admin/partials/nginx-helper-general-options.php:522
+msgid "(date, category, tag, author, custom taxonomies)"
+msgstr "(date, category, tag, author, custom taxonomies)"
+
+#: admin/partials/nginx-helper-general-options.php:520
+msgid "Purge Archives:"
+msgstr "Purge Archives:"
+
+#: admin/partials/nginx-helper-general-options.php:506
+#: admin/partials/nginx-helper-general-options.php:603
+msgid "when a <strong>comment</strong> is <strong>unapproved/deleted</strong>."
+msgstr "when a <strong>comment</strong> is <strong>unapproved/deleted</strong>."
+
+#: admin/partials/nginx-helper-general-options.php:497
+#: admin/partials/nginx-helper-general-options.php:594
+msgid "when a comment is unapproved/deleted."
+msgstr "when a comment is unapproved/deleted."
+
+#: admin/partials/nginx-helper-general-options.php:485
+#: admin/partials/nginx-helper-general-options.php:582
+msgid "when a <strong>comment</strong> is <strong>approved/published</strong>."
+msgstr "when a <strong>comment</strong> is <strong>approved/published</strong>."
+
+#: admin/partials/nginx-helper-general-options.php:476
+#: admin/partials/nginx-helper-general-options.php:573
+msgid "when a comment is approved/published."
+msgstr "when a comment is approved/published."
+
+#: admin/partials/nginx-helper-general-options.php:464
+msgid "when a <strong>post</strong> is <strong>published</strong>."
+msgstr "when a <strong>post</strong> is <strong>published</strong>."
+
+#: admin/partials/nginx-helper-general-options.php:447
+msgid "Purge Post/Page/Custom Post Type:"
+msgstr "Purge Post/Page/Custom Post Type:"
+
+#: admin/partials/nginx-helper-general-options.php:433
+msgid "when a <strong>published post</strong> (or page/custom post) is <strong>trashed</strong>"
+msgstr "when a <strong>published post</strong> (or page/custom post) is <strong>trashed</strong>"
+
+#: admin/partials/nginx-helper-general-options.php:424
+msgid "when an existing post/page/custom post is modified."
+msgstr "when an existing post/page/custom post is modified."
+
+#: admin/partials/nginx-helper-general-options.php:412
+#: admin/partials/nginx-helper-general-options.php:539
+msgid "when a <strong>post</strong> (or page/custom post) is <strong>modified</strong> or <strong>added</strong>."
+msgstr "when a <strong>post</strong> (or page/custom post) is <strong>modified</strong> or <strong>added</strong>."
+
+#: admin/partials/nginx-helper-general-options.php:403
+msgid "when a post/page/custom post is modified or added."
+msgstr "when a post/page/custom post is modified or added."
+
+#: admin/partials/nginx-helper-general-options.php:396
+msgid "Purge Homepage:"
+msgstr "Purge Home page:"
+
+#: admin/partials/nginx-helper-general-options.php:391
+msgid "Purging Conditions"
+msgstr "Purging Conditions"
+
+#: admin/partials/nginx-helper-general-options.php:322
+msgid "Prefix"
+msgstr "Prefix"
+
+#: admin/partials/nginx-helper-general-options.php:283
+msgid "Port"
+msgstr "Port"
+
+#: admin/partials/nginx-helper-general-options.php:261
+msgid "Hostname"
+msgstr "Hostname"
+
+#: admin/partials/nginx-helper-general-options.php:256
+msgid "Redis Settings"
+msgstr "Redis Settings"
+
+#: admin/partials/nginx-helper-general-options.php:241
+msgid "Checks for matching cache file in <strong>RT_WP_NGINX_HELPER_CACHE_PATH</strong>. Does not require any other modules. Requires that the cache be stored on the same server as WordPress. You must also be using the default nginx cache options (levels=1:2) and (fastcgi_cache_key \"$scheme$request_method$host$request_uri\")."
+msgstr "Checks for matching cache file in <strong>RT_WP_NGINX_HELPER_CACHE_PATH</strong>. Does not require any other modules. Requires that the cache be stored on the same server as WordPress. You must also be using the default nginx cache options (levels=1:2) and (fastcgi_cache_key \"$scheme$request_method$host$request_uri\")."
+
+#: admin/partials/nginx-helper-general-options.php:235
+msgid "Delete local server cache files"
+msgstr "Delete local server cache files"
+
+#: admin/partials/nginx-helper-general-options.php:195
+#: admin/partials/nginx-helper-general-options.php:455
+msgid "when a post/page/custom post is published."
+msgstr "when a post/page/custom post is published."
+
+#: admin/partials/nginx-helper-general-options.php:185
+msgid "Purge Method"
+msgstr "Purge Method"
+
+#: admin/partials/nginx-helper-general-options.php:175
+msgid "Redis cache"
+msgstr "Redis cache"
+
+#: admin/partials/nginx-helper-general-options.php:150
+msgid "Caching Method"
+msgstr "Caching Method"
+
+#: admin/partials/nginx-helper-general-options.php:134
+msgid "Enable Purge"
+msgstr "Enable Purge"
+
+#: admin/partials/nginx-helper-general-options.php:127
+msgid "Purging Options"
+msgstr "Purging Options"
+
+#: admin/partials/nginx-helper-general-options.php:100
+msgid "Settings saved."
+msgstr "Settings saved."
+
+#: includes/class-nginx-helper-activator.php:49
+msgid "Sorry, you need to be an administrator to use Nginx Helper"
+msgstr "Sorry, you need to be an administrator to use Nginx Helper"
+
+#: admin/class-nginx-helper-admin.php:218
+msgid "Purge Cache"
+msgstr "Purge Cache"
+
+#: admin/partials/nginx-helper-admin-display.php:21
+msgid "Nginx Settings"
+msgstr "Nginx Settings"
+
+#. Plugin Name of the plugin
+#: nginx-helper.php admin/class-nginx-helper-admin.php:183
+#: admin/class-nginx-helper-admin.php:184
+#: admin/class-nginx-helper-admin.php:194
+#: admin/class-nginx-helper-admin.php:195
+msgid "Nginx Helper"
+msgstr "Nginx Helper"
+
+#: admin/class-nginx-helper-admin.php:101
+msgid "Support"
+msgstr "Support"
+
+#: admin/class-nginx-helper-admin.php:97
+msgid "General"
+msgstr "General"

@@ -1,0 +1,239 @@
+# Translation of Plugins - Website Builder by SeedProd — Theme Builder, Landing Page Builder, Coming Soon Page, Maintenance Mode - Stable (latest release) in English (Canada)
+# This file is distributed under the same license as the Plugins - Website Builder by SeedProd — Theme Builder, Landing Page Builder, Coming Soon Page, Maintenance Mode - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-03-28 12:37:43+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.3\n"
+"Language: en_CA\n"
+"Project-Id-Version: Plugins - Website Builder by SeedProd — Theme Builder, Landing Page Builder, Coming Soon Page, Maintenance Mode - Stable (latest release)\n"
+
+#: languages/seedprod-lite.php:8767
+msgid "Activate RafflePress"
+msgstr "Activate RafflePress"
+
+#: admin/includes/skin.php:91 admin/includes/skin53.php:91
+#: app/includes/skin.php:82 app/includes/skin53.php:82
+msgid "There was an error installing the addon. Please try again."
+msgstr "There was an error installing the addon. Please try again."
+
+#: app/functions-utils.php:224 languages/seedprod-lite.php:8770
+msgid "Giveaway"
+msgstr "Giveaway"
+
+#: languages/seedprod-lite.php:9593
+msgid "Activate WPForms"
+msgstr "Activate WPForms"
+
+#: admin/class-seedprod-admin.php:369 admin/includes/plugin-functions.php:887
+#: admin/partials/seedprod-admin-settings.php:575
+#: languages/seedprod-lite.php:943
+msgid "Activate"
+msgstr "Activate"
+
+#: admin/includes/plugin-functions.php:878
+#: admin/includes/plugin-functions.php:883
+#: admin/includes/plugin-functions.php:889
+#: admin/partials/seedprod-admin-settings.php:569
+#: languages/seedprod-lite.php:939
+msgid "Install"
+msgstr "Install"
+
+#: admin/includes/class-seedprod-theme-templates-table.php:43
+#: languages/seedprod-lite.php:2806
+msgid "Type"
+msgstr "Type"
+
+#: languages/seedprod-lite.php:4304
+msgid "Source"
+msgstr "Source"
+
+#: admin/class-seedprod-admin.php:378 admin/class-seedprod-admin.php:400
+#: admin/includes/plugin-functions.php:376
+#: admin/includes/plugin-functions.php:627 app/functions-addons.php:215
+#: app/functions-addons.php:290 languages/seedprod-lite.php:7011
+msgid "Active"
+msgstr "Active"
+
+#: admin/includes/plugin-functions.php:338
+#: admin/includes/plugin-functions.php:359
+#: admin/includes/plugin-functions.php:638 app/functions-addons.php:226
+#: app/functions-addons.php:301
+msgid "Not Installed"
+msgstr "Not Installed"
+
+#: languages/seedprod-lite.php:7758
+msgid "Required"
+msgstr "Required"
+
+#: admin/partials/seedprod-admin-settings.php:85
+msgid "License Key"
+msgstr "Licence Key"
+
+#: admin/partials/seedprod-admin-settings.php:58
+msgid "License"
+msgstr "Licence"
+
+#: admin/class-seedprod-admin.php:744 admin/class-seedprod-admin.php:745
+#: admin/class-seedprod-admin.php:1511 admin/class-seedprod-admin.php:1560
+#: admin/partials/seedprod-admin-dashboard.php:428
+#: admin/partials/seedprod-admin-settings.php:19
+#: admin/partials/seedprod-admin-subscribers.php:33
+msgid "Subscribers"
+msgstr "Subscribers"
+
+#: admin/class-seedprod-admin.php:605 admin/class-seedprod-admin.php:606
+#: admin/class-seedprod-admin.php:1732
+#: admin/partials/seedprod-admin-dashboard.php:593
+#: admin/partials/seedprod-admin-settings.php:28
+#: languages/seedprod-lite.php:1348
+msgid "Settings"
+msgstr "Settings"
+
+#: languages/seedprod-lite.php:8464
+msgid "Contain"
+msgstr "Contain"
+
+#: admin/includes/review-functions.php:210
+msgid "I already did"
+msgstr "I already did"
+
+#: admin/includes/review-functions.php:206
+msgid "Nope, maybe later"
+msgstr "Nope, maybe later"
+
+#: admin/includes/review-functions.php:202
+msgid "Ok, you deserve it"
+msgstr "Ok, you deserve it"
+
+#. translators: 1: wordpress.org coming-soon plugin review, 2: wordpress.org
+#. coming-soon plugin review
+#: app/bootstrap.php:482
+msgid "Please rate <strong>SeedProd</strong> <a href=\"%1$s\" target=\"_blank\">&#9733;&#9733;&#9733;&#9733;&#9733;</a> on <a href=\"%2$s\" target=\"_blank\">WordPress.org</a> to help us spread the word. Thank you from the SeedProd team!"
+msgstr "Please rate <strong>SeedProd</strong> <a href=\"%1$s\" target=\"_blank\">&#9733;&#9733;&#9733;&#9733;&#9733;</a> on <a href=\"%2$s\" target=\"_blank\">WordPress.org</a> to help us spread the word. Thank you from the SeedProd team!"
+
+#: app/functions-utils.php:265
+msgid "Custom HTML"
+msgstr "Custom HTML"
+
+#: languages/seedprod-lite.php:321
+msgid "Dim Background"
+msgstr "Dim Background"
+
+#: languages/seedprod-lite.php:489
+msgid "Custom CSS"
+msgstr "Custom CSS"
+
+#: languages/seedprod-lite.php:7776
+msgid "Message"
+msgstr "Message"
+
+#: admin/partials/seedprod-admin-settings.php:18
+#: languages/seedprod-lite.php:290
+msgid "General"
+msgstr "General"
+
+#: admin/partials/seedprod-admin-website-builder.php:365
+#: languages/seedprod-lite.php:656
+msgid "Advanced"
+msgstr "Advanced"
+
+#: languages/seedprod-lite.php:2707
+msgid "Background Color"
+msgstr "Background Colour"
+
+#: languages/seedprod-lite.php:9863
+msgid "Background Image"
+msgstr "Background Image"
+
+#: languages/seedprod-lite.php:711
+msgid "Design"
+msgstr "Design"
+
+#: languages/seedprod-lite.php:461
+msgid "Background"
+msgstr "Background"
+
+#: languages/seedprod-lite.php:8665
+msgid "Max Width"
+msgstr "Max Width"
+
+#: admin/includes/class-seedprod-landing-pages-table.php:44
+msgid "Status"
+msgstr "Status"
+
+#: app/functions-utils.php:147 languages/seedprod-lite.php:425
+msgid "Text"
+msgstr "Text"
+
+#: languages/seedprod-lite.php:1145
+msgid "Yes"
+msgstr "Yes"
+
+#: languages/seedprod-lite.php:2210
+msgid "Content"
+msgstr "Content"
+
+#: languages/seedprod-lite.php:277
+msgid "Scripts"
+msgstr "Scripts"
+
+#: languages/seedprod-lite.php:2112
+msgid "Text Color"
+msgstr "Text Colour"
+
+#: app/functions-utils.php:135 languages/seedprod-lite.php:8730
+msgid "Headline"
+msgstr "Headline"
+
+#: languages/seedprod-lite.php:1905
+msgid "Center Center"
+msgstr "Center Center"
+
+#: languages/seedprod-lite.php:911
+msgid "SEO Title"
+msgstr "SEO Title"
+
+#. Author of the plugin
+#: coming-soon.php admin/partials/seedprod-admin-growth-tool.php:74
+msgid "SeedProd"
+msgstr "SeedProd"
+
+#: languages/seedprod-lite.php:9316
+msgid "Scroll"
+msgstr "Scroll"
+
+#: languages/seedprod-lite.php:6118
+msgid "Fixed"
+msgstr "Fixed"
+
+#: languages/seedprod-lite.php:9835
+msgid "Background Position"
+msgstr "Background Position"
+
+#: languages/seedprod-lite.php:917
+msgid "Favicon"
+msgstr "Favicon"
+
+#: app/backwards/csp4-functions.php:10
+msgid "Please enter your settings."
+msgstr "Please enter your settings."
+
+#: admin/class-seedprod-admin.php:1001
+msgid "Maintenance Mode Active"
+msgstr "Maintenance Mode Active"
+
+#: admin/class-seedprod-admin.php:999
+msgid "Coming Soon Mode Active"
+msgstr "Coming Soon Mode Active"
+
+#: languages/seedprod-lite.php:3993
+msgid "Templates"
+msgstr "Templates"
+
+#: languages/seedprod-lite.php:9398
+msgid "End Date"
+msgstr "End Date"

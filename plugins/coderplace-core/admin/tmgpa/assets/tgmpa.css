@@ -1,0 +1,92 @@
+#wpbody-content > .tgmpa {
+
+}
+
+#wpbody-content > .tgmpa > h1 {
+
+}
+
+#wpbody-content > .tgmpa .install-plugin-message p {
+	font-size: 16px;
+}
+#wpbody-content > .tgmpa .install-plugin-message strong {
+	color: #00b50f;
+
+}
+
+#wpbody-content > .tgmpa .tablenav {
+	padding: 15px 0px;
+	margin: 0;
+}
+
+#wpbody-content > .tgmpa > .subsubsub {
+	padding-left: 0px;
+	margin-bottom: -10px;
+}
+
+#wpbody-content > .tgmpa .update-php {
+	height: auto!important;
+	min-height: auto!important;
+}
+
+#tgmpa-plugins #plugin.column-plugin {
+	width: 55%;
+}
+
+#tgmpa-plugins #plugin.column-plugin,
+#tgmpa-plugins #version.column-version,
+#tgmpa-plugins #status.column-status {
+	font-weight: bold;
+}
+
+#tgmpa-plugins td.source.column-source,
+#tgmpa-plugins th.manage-column.column-source {
+	display: none;
+}
+
+#tgmpa-plugins td.plugin {
+	position: relative;
+	padding-left: 90px;
+}
+
+#tgmpa-plugins td.plugin strong {
+	font-weight: bold;
+}
+
+#tgmpa-plugins .tgmpa-plugin-image {
+	position: absolute;
+	left: 10px; top: 8px;
+}
+
+#tgmpa-plugins .tgmpa-plugin-image img {
+	width: 60px;
+	border-radius: 5px;
+}
+
+#tgmpa-plugins td.plugin .install a,
+#tgmpa-plugins td.plugin .update a,
+#tgmpa-plugins td.plugin .activate a {
+	text-transform: uppercase;
+	font-weight: bold;
+	font-size: 10px;
+	color: #00b50f!important;
+}
+
+#tgmpa-plugins .tgmpa-plugin-type {
+	border-radius: 5px;
+	padding: 5px 10px;
+	margin-right: 8px;
+	font-size: 10px;
+	text-transform: uppercase;
+	font-weight: bold;
+	background-color: #e2e2e2
+}
+
+#tgmpa-plugins .tgmpa-type-required .tgmpa-plugin-type {
+	background-color: #00b50f;
+	color: #fff;
+}
+
+#tgmpa-plugins .tgmpa-type-required > th {
+	border-left: 3px solid #dc3232;
+}

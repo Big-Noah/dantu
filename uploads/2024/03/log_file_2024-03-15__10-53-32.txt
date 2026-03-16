@@ -1,0 +1,73 @@
+
+---Downloaded files---
+The import files for: shoedel were successfully downloaded!
+Initial max execution time = 12000
+Files info:
+Site URL = http://192.168.0.101/user3/wordpress/goixio
+Data file = E:\wamp\www\user3\wordpress\goixio/wp-content/themes/shoedel/custom/one-click/shoedel-export.xml
+Widget file = E:\wamp\www\user3\wordpress\goixio/wp-content/themes/shoedel/custom/one-click/shoedel_widgets_settings.wie
+Customizer file = E:\wamp\www\user3\wordpress\goixio/wp-content/themes/shoedel/custom/one-click/shoedel_customizer_export.dat
+Redux files:
+not defined!
+
+------
+Slider Revolution Import.
+
+---Importing widgets---
+Header Area : 
+
+Block - No Title - Imported
+
+Header Off Canvas : 
+
+Navigation Menu - Shop By Category - Imported
+
+Sidebar 1 : 
+
+Filter Everything &mdash; Filters - No Title - Imported
+Filter Everything &mdash; Filters - No Title - Imported
+Block - No Title - Imported
+
+Sidebar 2 : 
+
+Search - No Title - Imported
+Categories - Categories - Imported
+Block - No Title - Imported
+Block - No Title - Imported
+
+Footer 1 : 
+
+Block - No Title - Imported
+
+Footer 2 : 
+
+Block - No Title - Imported
+Block - No Title - Imported
+Block - No Title - Imported
+
+Footer 3 : 
+
+Block - No Title - Imported
+
+Footer 4 : 
+
+Block - No Title - Imported
+
+Footer 5 : 
+
+Block - No Title - Imported
+
+Footer 6 : 
+
+Block - No Title - Imported
+
+
+
+------
+Slider Revolution Import.
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+123Slider import successfully4

@@ -1,0 +1,71 @@
+
+---Upload files---
+Redux file was not uploaded. Error: No file provided.
+
+---Upload files---
+The import files were successfully uploaded!
+Initial max execution time = 300
+Files info:
+Site URL = http://wp1.eraycloud.com
+Data file = /home/ceshi/wwwroot/wp1.eraycloud.com/wp-content/uploads/2026/03/goixio-export.xml
+Widget file = /home/ceshi/wwwroot/wp1.eraycloud.com/wp-content/uploads/2026/03/goixio_widgets_settings.wie
+Customizer file = /home/ceshi/wwwroot/wp1.eraycloud.com/wp-content/uploads/2026/03/goixio_customizer_export.dat
+Redux files:
+not defined!
+
+------
+Slider Revolution Import.
+
+---Importing widgets---
+Header Off Canvas : 
+
+Navigation Menu - Shop By Categories - Imported
+
+Sidebar 1 : 
+
+Filter Everything &mdash; Filters - No Title - Imported
+Filter Everything &mdash; Filters - No Title - Imported
+Block - No Title - Imported
+
+Sidebar 2 : 
+
+Search - No Title - Imported
+Categories - Categories - Imported
+Block - No Title - Imported
+Block - No Title - Imported
+
+Footer 1 : 
+
+Block - No Title - Imported
+
+Footer 2 : 
+
+Block - No Title - Imported
+Block - No Title - Imported
+
+Footer 3 : 
+
+Block - No Title - Imported
+
+Footer 4 : 
+
+Block - No Title - Imported
+
+Footer 5 : 
+
+Block - No Title - Imported
+
+Footer 6 : 
+
+Block - No Title - Imported
+
+
+
+------
+Slider Revolution Import.
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+123Slider import successfully4

@@ -1,0 +1,79 @@
+.ocdi__content-container-content .ocdi-install-plugins-content-header1,
+.ocdi__content-container-content .ocdi-install-plugins-content-content .plugin-item:not(.plugin-item-advanced-custom-fields):not(.plugin-item-tgm-example-plugin):not(.plugin-item-revslider):not(.plugin-item-woocommerce):not(.plugin-item-elementor):not(.plugin-item-js_composer),
+.ocdi__content-container-content .ocdi-install-plugins-content-content .ocdi-content-notice
+{
+	display: none;
+}
+.ocdi h2.notice-title {
+	display: inline-block;
+	color: #1d2327;
+	font-size: 18px;
+	margin: 0.5em 0;
+	padding: 2px;
+	line-height: 1.4em;
+}
+
+.ocdi .notice, .ocdi div.error, .wrap .notice, .wrap div.error, .wrap div.updated {
+    margin: 5px 0 15px;
+}
+
+.tmc-setupwizard .ocdi__gl-item-footer {
+    margin: 0;
+    padding: 8px 10px;
+    border-top: 1px solid #dddddd;
+    background: #ffffff;
+    background: rgba(255, 255, 255, 0.65);
+}
+
+.tmc-setupwizard .ocdi__gl-item-title {
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    display: block;
+    margin: 0;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+    font-weight: 500;
+    color: #23282d;
+    padding: 5px 0 6px;
+}
+.tmc-setupwizard .ocdi__gl-item:hover .ocdi__gl-item-buttons {
+    display: block;
+}
+.tmc-setupwizard .ocdi__gl-item-buttons {
+    display: block;
+    text-align: center;
+	border-radius: 3px;
+}
+.tmc-setupwizard .ocdi__gl-item-button.button {
+	background: #f6f7f7;
+    border-color: #8c8f94;
+    box-shadow: none;
+	color: #0a4b78;
+	outline: 2px solid transparent;
+    outline-offset: 0;
+	font-size: 13px;
+    line-height: 2.15384615;
+	border-radius: 3px;
+}
+
+.tmc-setupwizard .ocdi__gl-item-button.button:hover {
+	background: #2271b1;
+    border-color: #2271b1;
+    color: #fff;
+    text-decoration: none;
+    text-shadow: none;
+}
+
+.tmc-setupwizard .ocdi__gl-item-button.button-primary {
+	
+	background: #2271b1;
+    border-color: #2271b1;
+    color: #fff;
+}
+.tmc-setupwizard .ocdi__gl-item-button.button-primary:hover {
+
+	background: #f6f7f7;
+    border-color: #8c8f94;
+	color: #0a4b78;
+}

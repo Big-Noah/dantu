@@ -1,0 +1,38 @@
+11-03-2026 16:14:09 - INFO  - 9.1.6 - 73.9 MB/256 MB - ceshi > Start upgrade from 0.0.0
+11-03-2026 16:14:09 - INFO  - 9.1.6 - 73.4 MB/256 MB - ceshi > Array
+(
+    [wp_newsletter_emails] => Created table `wp_newsletter_emails`
+)
+
+11-03-2026 16:14:09 - INFO  - 9.1.6 - 73.4 MB/256 MB - ceshi > Array
+(
+    [wp_newsletter_sent] => Created table `wp_newsletter_sent`
+)
+
+11-03-2026 16:14:09 - INFO  - 9.1.6 - 73.5 MB/256 MB - ceshi > Array
+(
+    [wp_newsletter] => Created table `wp_newsletter`
+)
+
+11-03-2026 16:14:09 - INFO  - 9.1.6 - 73.4 MB/256 MB - ceshi > Array
+(
+    [wp_newsletter_user_logs] => Created table `wp_newsletter_user_logs`
+)
+
+11-03-2026 16:14:09 - INFO  - 9.1.6 - 73.4 MB/256 MB - ceshi > Array
+(
+    [wp_newsletter_user_meta] => Created table `wp_newsletter_user_meta`
+)
+
+11-03-2026 16:14:10 - INFO  - 9.1.6 - 73.4 MB/256 MB - ceshi > Array
+(
+    [wp_newsletter_stats] => Created table `wp_newsletter_stats`
+)
+
+11-03-2026 16:14:10 - INFO  - 9.1.6 - 73.4 MB/256 MB - ceshi > Array
+(
+    [wp_newsletter_logs] => Created table `wp_newsletter_logs`
+)
+
+11-03-2026 16:14:10 - INFO  - 9.1.6 - 73.4 MB/256 MB - ceshi > Backing up options of 0.0.0
+11-03-2026 16:14:10 - INFO  - 9.1.6 - 73.5 MB/256 MB - ceshi > End
