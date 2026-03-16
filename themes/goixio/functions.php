@@ -1948,3 +1948,16 @@ function coderplace_pageloader(){
 }
 add_action('wp_body_open', 'coderplace_pageloader');
 
+/**
+ * Add scoped body class for custom frame list archive styling.
+ *
+ * @param array $classes Body classes.
+ * @return array
+ */
+function goixio_shop_archive_body_class( $classes ) {
+	if ( function_exists( 'is_shop' ) && ( is_shop() || is_product_category() || is_product_tag() ) ) {
+		$classes[] = 'goixio-frame-list';
+	}
+	return $classes;
+}
+add_filter( 'body_class', 'goixio_shop_archive_body_class' );
